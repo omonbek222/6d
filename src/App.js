@@ -98,7 +98,7 @@ function GreetingByLanguage() {
     en: "Hello!",
     ru: "Привет!"
   };
-
+jsdb
   return <div>{greeting[lang]}</div>;
 }
 9. Ro‘yxatni Filtrlash va Chizish
